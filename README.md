@@ -1,6 +1,6 @@
-# BANÁT kontrolnÍ skript pro Mluvku
+# BANÁT kontrolní skript pro Mluvku
 Kontrolní skript pro korpus BANÁT používaný webovou databází Mluvka hostovanou na ÚČJTK.
 
 ## Credits
-Michal Křen (ÚČNK)
-Karolína Vyskočilová (ÚČJTK), karolina.vyskocilova@ff.cuni.cz
+* Michal Křen (ÚČNK)
+* Karolína Vyskočilová (ÚČJTK), karolina.vyskocilova@ff.cuni.cz
